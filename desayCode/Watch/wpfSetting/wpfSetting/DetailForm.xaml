@@ -1,0 +1,106 @@
+﻿<Window x:Class="wpfSetting.DetailForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfSetting"
+        xmlns:pu="clr-namespace:Panuon.UI.Silver;assembly=Panuon.UI.Silver"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf"  
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="Setting" Height="500" Width="955" WindowStyle="None" ResizeMode="NoResize" Background="#1f1f1f" WindowStartupLocation="CenterScreen" WindowState="Normal">
+    <materialDesign:DialogHost Identifier="RootDialog"
+        DialogTheme="Inherit"
+        SnackbarMessageQueue="{Binding ElementName=MainSnackbar, Path=MessageQueue}">
+        <materialDesign:DrawerHost x:Name="Drawhost"
+           IsLeftDrawerOpen="{Binding ElementName=DragButton, Path=IsChecked}" IsHitTestVisible="True">
+            <materialDesign:DrawerHost.LeftDrawerContent>
+                <DockPanel MinWidth="220">
+                    <ToggleButton 
+                        Style="{StaticResource MaterialDesignHamburgerToggleButton}" 
+                        DockPanel.Dock="Top"
+                        HorizontalAlignment="Right" 
+                        Margin="16"
+                        IsChecked="{Binding ElementName=DragButton, Path=IsChecked, Mode=TwoWay}"
+                        Foreground="White"/>
+                    <TextBox 
+                        x:Name="DemoItemsSearchBox"
+                        Text="{Binding SearchKeyword, UpdateSourceTrigger=PropertyChanged}"
+                        DockPanel.Dock="Top"
+                        Margin="16, 4"
+                        Width="200"
+                        materialDesign:HintAssist.Hint="Search"
+                        materialDesign:HintAssist.IsFloating="True"
+                        materialDesign:TextFieldAssist.HasClearButton="True"
+                        materialDesign:TextFieldAssist.HasOutlinedTextField="True"
+                        materialDesign:TextFieldAssist.DecorationVisibility="Collapsed"
+                        materialDesign:TextFieldAssist.TextFieldCornerRadius="4"
+                        Foreground="White"/>
+                    <ListBox
+                        x:Name="DemoItemListBox"
+                        Margin="0 16 0 16"
+                        PreviewMouseDown="PlaceholdersListBox_OnPreviewMouseDown"
+                        ItemsSource="{Binding}">
+                    </ListBox>
+                </DockPanel>
+            </materialDesign:DrawerHost.LeftDrawerContent>
+            <DockPanel>
+                <materialDesign:ColorZone
+                    x:Name="Zone"
+                    Padding="7"
+                    materialDesign:ShadowAssist.ShadowDepth="Depth2"
+                    Mode="PrimaryMid"
+                    Background="#181735"
+                    DockPanel.Dock="Top">
+                    <DockPanel MouseDown="DockPanel_MouseDown">
+                        <ToggleButton
+                                x:Name="DragButton"
+                                Style="{StaticResource MaterialDesignHamburgerToggleButton}"
+                                IsChecked="False"
+                                Foreground="White"
+                                Click="MenuToggleButton_OnClick"
+                                AutomationProperties.Name="HamburgerToggleButton"/>
+                        <TextBlock  Text="Detail" Foreground="White" Margin="350 0 40 0" HorizontalAlignment="Center" VerticalAlignment="Center" FontStyle="Italic" FontSize="25"/>
+                        <Button Click="btnup_Click" Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}" ToolTip="MaterialDesignFloatingActionMiniLightButton" HorizontalAlignment="Right" Width="30" Height="30">
+                            <materialDesign:PackIcon Kind="Close"/>
+                        </Button>
+                    </DockPanel>
+                </materialDesign:ColorZone>
+                <ScrollViewer Name="scroll"  HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Auto">
+                    <StackPanel>
+                        <StackPanel Height="50" Orientation="Horizontal">
+                            <materialDesign:PackIcon Kind="Function" Height="23" Width="30" VerticalAlignment="Center" Foreground="White" />
+                            <TextBox  x:Name="txtFunction" Height="25" Width="180" materialDesign:HintAssist.Hint="Function" VerticalAlignment="Center" Foreground="White">
+                            </TextBox>
+                            <materialDesign:PackIcon Kind="Redo" Height="23" Width="30" VerticalAlignment="Center" Foreground="White" Margin="10 0 0 0" />
+                            <TextBox  x:Name="txtRetry" Height="25" Width="50" materialDesign:HintAssist.Hint="Retry" VerticalAlignment="Center" Foreground="White">
+                            </TextBox>
+                            <materialDesign:PackIcon Kind="Database" Height="23" Width="30" VerticalAlignment="Center" Foreground="White" Margin="10 0 0 0" />
+                            <TextBox x:Name="txtLogName" Height="25" Width="180" materialDesign:HintAssist.Hint="LogName" VerticalAlignment="Center" Foreground="White">
+                            </TextBox>
+                            <materialDesign:PackIcon Kind="AlphaEBox" Height="23" Width="30" VerticalAlignment="Center" Foreground="White" Margin="10 0 0 0" />
+                            <TextBox x:Name="txtErrorCode" Height="25" Width="180" materialDesign:HintAssist.Hint="ErrorCode" VerticalAlignment="Center" Foreground="White">
+                            </TextBox>
+                            <CheckBox x:Name="CheckBoxSkip" Style="{StaticResource MaterialDesignFilterChipAccentOutlineCheckBox}" IsChecked="True" Content="Skip" Margin="20 0 0 0" />
+                            <materialDesign:PopupBox  PlacementMode="BottomAndAlignCentres" ToolTipService.Placement="Right" ToolTip="PopupBox, Style MaterialDesignMultiFloatingActionPopupBox" Opened="PopupBox_OnOpened" Closed="PopupBox_OnClosed" Margin="30,0,0,0" Foreground="White">
+                                <StackPanel>
+                                    <Button ToolTip="One with custom opacity" Opacity="0.5" Content="1" />
+                                    <Button ToolTip="Two" Content="2" />
+                                    <Button ToolTip="Three" Content="3" />
+                                </StackPanel>
+                            </materialDesign:PopupBox>
+                        </StackPanel>
+                        <DataGrid x:Name="grd" IsHitTestVisible="True" CanUserSortColumns="False" CanUserResizeColumns="False" CanUserReorderColumns="False">
+                            <DataGrid.Resources>
+                                <Style BasedOn="{StaticResource {x:Type DataGridColumnHeader}}" TargetType="{x:Type DataGridColumnHeader}">
+                                    <Setter Property="IsHitTestVisible" Value="False"/>
+                                    <!--<Setter Property="Focusable" Value="False"/>-->
+                                </Style>
+                            </DataGrid.Resources>
+                        </DataGrid>
+                    </StackPanel>
+                </ScrollViewer>
+            </DockPanel>
+        </materialDesign:DrawerHost>
+    </materialDesign:DialogHost>
+</Window>

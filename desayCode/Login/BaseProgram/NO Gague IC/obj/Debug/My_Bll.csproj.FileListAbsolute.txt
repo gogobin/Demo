@@ -1,0 +1,259 @@
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg01.jpg
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg02.jpg
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg03.jpg
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg04.jpg
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg05.jpg
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg06.jpg
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin.config
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\NoFlower.config
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\BlueSea.config
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\SunsetRed.config
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\KissOfAngel.config
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin.ini
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\My_Bll.dll
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\My_Bll.pdb
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\QQ.SkinsLib.dll
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\TX.Framework.WindowUI.dll
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\TX.Framework.dll
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\TX.Framework.WindowUI.pdb
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\QQ.SkinsLib.pdb
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.Properties.Resources.resources
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.dll
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.pdb
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.frmTest.resources
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestChannel1.resources
+C:\Users\Administrator\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestChannel2.resources
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg01.jpg
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg02.jpg
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg03.jpg
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg04.jpg
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg05.jpg
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg06.jpg
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin.config
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\NoFlower.config
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\BlueSea.config
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\SunsetRed.config
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\KissOfAngel.config
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin.ini
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\My_Bll.dll
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\My_Bll.pdb
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\QQ.SkinsLib.dll
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\TX.Framework.WindowUI.dll
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\TX.Framework.dll
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\TX.Framework.WindowUI.pdb
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\QQ.SkinsLib.pdb
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.csprojResolveAssemblyReference.cache
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestChannel1.resources
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestChannel2.resources
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.Properties.Resources.resources
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.csproj.GenerateResource.Cache
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.dll
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.pdb
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestMain.resources
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\CSkin.dll
+C:\Users\huanggj\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\CSkin.xml
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg01.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg02.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg03.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg04.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg05.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\bg\bg06.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin.config
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\NoFlower.config
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\BlueSea.config
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\SunsetRed.config
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin\KissOfAngel.config
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Config\Skin.ini
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\QQ.SkinsLib.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\TX.Framework.WindowUI.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\TX.Framework.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\office.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\TX.Framework.WindowUI.pdb
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\QQ.SkinsLib.pdb
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\office.xml
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestMain.resources
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestChannel1.resources
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestChannel2.resources
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.Properties.Resources.resources
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\obj\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\EV2300 Test Systerm\My_Bll\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\obj\Debug\My_Bll.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\obj\Debug\My_Bll.frmTestMain.resources
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\obj\Debug\My_Bll.frmTestChannel1.resources
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\obj\Debug\My_Bll.Properties.Resources.resources
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\obj\Debug\My_Bll.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin\bg\bg01.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin\bg\bg02.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin\bg\bg03.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin\bg\bg04.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin\bg\bg05.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin\bg\bg06.jpg
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin.config
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin\NoFlower.config
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin\BlueSea.config
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin\SunsetRed.config
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin\KissOfAngel.config
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Config\Skin.ini
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\TX.Framework.WindowUI.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\TX.Framework.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\office.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\TX.Framework.WindowUI.pdb
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\office.xml
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\obj\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\obj\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\TexasInstruments.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Dal Framework v1.0.dll
+C:\Users\liguohui\Desktop\EV2300 Test Systerm1\My_Bll\bin\Debug\Dal Framework v1.0.pdb
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin\bg\bg01.jpg
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin\bg\bg02.jpg
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin\bg\bg03.jpg
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin\bg\bg04.jpg
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin\bg\bg05.jpg
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin\bg\bg06.jpg
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin.config
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin\NoFlower.config
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin\BlueSea.config
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin\SunsetRed.config
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin\KissOfAngel.config
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Config\Skin.ini
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Dal Framework v1.0.dll
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\TexasInstruments.dll
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\TX.Framework.WindowUI.dll
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Wifi.dll
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\TX.Framework.dll
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\office.dll
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\TX.Framework.WindowUI.pdb
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Wifi.pdb
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Dal Framework v1.0.pdb
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\bin\Debug\office.xml
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\obj\Debug\My_Bll.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\obj\Debug\My_Bll.frmTestChannel1.resources
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\obj\Debug\My_Bll.frmTestMsg.resources
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\obj\Debug\My_Bll.Properties.Resources.resources
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\obj\Debug\My_Bll.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\obj\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\Test Systerm - 副本\My_Bll\obj\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\bin\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\bin\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\bin\Debug\Dal Framework v1.0.dll
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\bin\Debug\TexasInstruments.dll
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\bin\Debug\Wifi.dll
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\bin\Debug\Wifi.pdb
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\bin\Debug\Dal Framework v1.0.pdb
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\obj\Debug\My_Bll.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestChannel1.resources
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestMsg.resources
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\obj\Debug\My_Bll.Properties.Resources.resources
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\obj\Debug\My_Bll.SettingTestDetailsParameters.resources
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\obj\Debug\My_Bll.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\obj\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\Test Systerm\My_Bll\obj\Debug\My_Bll.pdb
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\bin\Debug\My_Bll.dll
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\bin\Debug\My_Bll.pdb
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\bin\Debug\Dal Framework v1.0.dll
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\bin\Debug\TexasInstruments.dll
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\bin\Debug\Wifi.dll
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\bin\Debug\Wifi.pdb
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\bin\Debug\Dal Framework v1.0.pdb
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\obj\Debug\My_Bll.csprojResolveAssemblyReference.cache
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestChannel1.resources
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\obj\Debug\My_Bll.frmTestMsg.resources
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\obj\Debug\My_Bll.Properties.Resources.resources
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\obj\Debug\My_Bll.SettingTestDetailsParameters.resources
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\obj\Debug\My_Bll.csproj.GenerateResource.Cache
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\obj\Debug\My_Bll.dll
+C:\Users\huanggj\Desktop\VB\Test Systerm\My_Bll\obj\Debug\My_Bll.pdb
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\bin\Debug\My_Bll.dll.config
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\bin\Debug\My_Bll.dll
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\bin\Debug\My_Bll.pdb
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\bin\Debug\Bll.dll
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\bin\Debug\Bll.pdb
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.AddSignPerson.resources
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.frmChangeFileCause.resources
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.frmQueryParamter.resources
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.SettingTestDetailsParameters.resources
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.dll
+C:\Users\Administrator\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\My_Bll.dll.config
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\Bll.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\DAL.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\NPOI.OOXML.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\NPOI.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\Interop.DSOFramer.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\Bll.pdb
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\bin\Debug\DAL.pdb
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.AddSignPerson.resources
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.Properties.Resources.resources
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.SettingTestDetailsParameters.resources
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\Software Delivery System\My_Bll\obj\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\My_Bll.dll.config
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\Bll.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\DAL.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\NPOI.OOXML.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\NPOI.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\Interop.DSOFramer.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\Bll.pdb
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\bin\Debug\DAL.pdb
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\obj\Debug\My_Bll.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\obj\Debug\My_Bll.AddSignPerson.resources
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\obj\Debug\My_Bll.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\obj\Debug\My_Bll.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\obj\Debug\My_Bll.Properties.Resources.resources
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\obj\Debug\My_Bll.SettingTestDetailsParameters.resources
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\obj\Debug\My_Bll.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\obj\Debug\My_Bll.dll
+C:\Users\liguohui\Desktop\Software Delivery System - 副本\My_Bll\obj\Debug\My_Bll.pdb
