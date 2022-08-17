@@ -11,3 +11,6 @@ typedef struct _tag_Student {
 	char *a;
 	int b;
 } Student
+
+在C语言关于define的文章中我们有介绍到，凡是以#开头的均为预处理指令，预处理又叫预编译，预编译不是编译，而是编译前的处理。
+这个操作是在正式编译前由系统自动完成的
