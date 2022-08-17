@@ -1,0 +1,168 @@
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\OQC.SW.dll.config
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\OQC.SW.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\OQC.SW.pdb
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\Bll.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\DAL.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\NPOI.OOXML.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\NPOI.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\Interop.DSOFramer.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\Bll.pdb
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\bin\Debug\DAL.pdb
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\obj\Debug\OQC.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\obj\Debug\OQC.SW.AddSignPerson.resources
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\obj\Debug\OQC.SW.Properties.Resources.resources
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\obj\Debug\OQC.SW.SettingTestDetailsParameters.resources
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\obj\Debug\OQC.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\obj\Debug\OQC.SW.dll
+C:\Users\liguohui\Desktop\新建文件夹\Software Delivery System\OQC Test\obj\Debug\OQC.SW.pdb
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\OQC.SW.dll.config
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\OQC.SW.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\OQC.SW.pdb
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\Bll.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\DAL.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\NPOI.OOXML.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\NPOI.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\Interop.DSOFramer.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\Bll.pdb
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\bin\Debug\DAL.pdb
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.AddSignPerson.resources
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.Properties.Resources.resources
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.SettingTestDetailsParameters.resources
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.dll
+C:\Users\liguohui\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.pdb
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\OQC.SW.dll.config
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\OQC.SW.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\OQC.SW.pdb
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\Bll.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\Bll.pdb
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.AddSignPerson.resources
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmChangeFileCause.resources
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmQueryParamter.resources
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmSttingParamter.resources
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.SettingTestDetailsParameters.resources
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.dll
+C:\Users\Administrator\Desktop\Software Delivery System\OQC Test\obj\Debug\OQC.SW.pdb
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\OQC.SW.dll.config
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\OQC.SW.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\OQC.SW.pdb
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\Bll.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\DAL.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\AxInterop.DSOFramer.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\NPOI.OOXML.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\NPOI.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\Interop.DSOFramer.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\NPOI.OpenXml4Net.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\Bll.pdb
+D:\lihui\Old List\Software Delivery System\OQC Test\bin\Debug\DAL.pdb
+D:\lihui\Old List\Software Delivery System\OQC Test\obj\Debug\OQC.csprojResolveAssemblyReference.cache
+D:\lihui\Old List\Software Delivery System\OQC Test\obj\Debug\OQC.SW.AddSignPerson.resources
+D:\lihui\Old List\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmChangeFileCause.resources
+D:\lihui\Old List\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmQueryParamter.resources
+D:\lihui\Old List\Software Delivery System\OQC Test\obj\Debug\OQC.SW.frmSttingParamter.resources
+D:\lihui\Old List\Software Delivery System\OQC Test\obj\Debug\OQC.SW.Properties.Resources.resources
+D:\lihui\Old List\Software Delivery System\OQC Test\obj\Debug\OQC.SW.SettingTestDetailsParameters.resources
+D:\lihui\Old List\Software Delivery System\OQC Test\obj\Debug\OQC.csproj.GenerateResource.Cache
+D:\lihui\Old List\Software Delivery System\OQC Test\obj\Debug\OQC.SW.dll
+D:\lihui\Old List\Software Delivery System\OQC Test\obj\Debug\OQC.SW.pdb
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\IC.OQC.SW.dll.config
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\IC.OQC.SW.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\IC.OQC.SW.pdb
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\Bll.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\DAL.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\NPOI.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\NPOI.OOXML.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\Interop.DSOFramer.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\Bll.pdb
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\bin\Debug\DAL.pdb
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\obj\Debug\OQC.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\obj\Debug\IC.OQC.SW.AddSignPerson.resources
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\obj\Debug\IC.IC.OQC.SW.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\obj\Debug\IC.OQC.SW.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\obj\Debug\IC.OQC.SW.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\obj\Debug\IC.OQC.SW.Properties.Resources.resources
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\obj\Debug\IC.OQC.SW.frmParaMter.resources
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\obj\Debug\OQC.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\obj\Debug\IC.OQC.SW.dll
+C:\Users\liguohui\Desktop\AMS - 副本 (2)\OQC Test\obj\Debug\IC.OQC.SW.pdb
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\IC.OQC.SW.dll.config
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\IC.OQC.SW.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\IC.OQC.SW.pdb
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\Bll.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\DAL.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\NPOI.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\NPOI.OOXML.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\Interop.DSOFramer.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\Bll.pdb
+C:\Users\liguohui\Desktop\AMS\OQC Test\bin\Debug\DAL.pdb
+C:\Users\liguohui\Desktop\AMS\OQC Test\obj\Debug\OQC.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\AMS\OQC Test\obj\Debug\IC.OQC.SW.AddSignPerson.resources
+C:\Users\liguohui\Desktop\AMS\OQC Test\obj\Debug\IC.IC.OQC.SW.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\AMS\OQC Test\obj\Debug\IC.OQC.SW.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\AMS\OQC Test\obj\Debug\IC.OQC.SW.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\AMS\OQC Test\obj\Debug\IC.OQC.SW.Properties.Resources.resources
+C:\Users\liguohui\Desktop\AMS\OQC Test\obj\Debug\IC.OQC.SW.frmParaMter.resources
+C:\Users\liguohui\Desktop\AMS\OQC Test\obj\Debug\OQC.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\AMS\OQC Test\obj\Debug\IC.OQC.SW.dll
+C:\Users\liguohui\Desktop\AMS\OQC Test\obj\Debug\IC.OQC.SW.pdb
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\Bll.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\DAL.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.OOXML.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\Interop.DSOFramer.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\Bll.pdb
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\DAL.pdb
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\OQC.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.AddSignPerson.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.IC.NOGagueIC.SW.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\OQC.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb

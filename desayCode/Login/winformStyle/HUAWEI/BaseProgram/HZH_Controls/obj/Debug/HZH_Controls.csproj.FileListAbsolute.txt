@@ -1,0 +1,959 @@
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\certificate
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\certificate64
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\handinput.cupf
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\handinput.ini
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\lm_HW_PB_7000_kn.arpa.7e9.prune.1e-7.lm.fixed
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\sgim_annex.bin
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\sgim_hz.bin
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\sgim_py.bin
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\HandInput.dll
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\HandInput64.dll
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\overlapEngine.dll
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\singleEngine.dll
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\handinput.exe
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HandInput\icon.png
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HZH_Controls.dll
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\bin\Debug\HZH_Controls.pdb
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.csprojAssemblyReference.cache
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnsGroup.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnExt.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnFillet.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnImg.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDropDownBtn.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCheckBox.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCombox.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGrid.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGridPanel.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridView.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewRow.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewTreeRow.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt2.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan2.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimePanel.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBlower.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMindMappingPanel.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRotor.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTurntable.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderAll.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderNum.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderPay.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDData.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDDataTime.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDNums.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDTime.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalList.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalListItem.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListExt.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListItemExt.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListView.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListViewItem.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl2.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControlBase.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenu.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuChildrenItem.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuParentItem.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenu.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuExt.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuOffice.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCrumbNavigation.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPanelTitle.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessEllipse.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessExt.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessLineExt.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessWave.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRadioButton.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCVScrollbar.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_H.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_V.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCStep.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSwitch.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.TextBoxTransparent.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNumTextBox.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTextBoxEx.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimeLine.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTransfer.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCControlBase.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchor.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchorTips.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBase.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmDialog.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmInputs.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBack.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmLoading.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTips.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTransparent.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWaiting.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel1.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel2.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithTitle.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.Properties.Resources.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.FrmSelectImage.resources
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.csproj.GenerateResource.cache
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.csproj.CoreCompileInputs.cache
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.dll
+C:\Users\138004\Downloads\NetWinformControl-master\HZH_Controls\HZH_Controls\obj\Debug\HZH_Controls.pdb
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate64
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.cupf
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.ini
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\lm_HW_PB_7000_kn.arpa.7e9.prune.1e-7.lm.fixed
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_annex.bin
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_hz.bin
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_py.bin
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput.dll
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput64.dll
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\overlapEngine.dll
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\singleEngine.dll
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.exe
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HandInput\icon.png
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.dll
+E:\C# testing\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.pdb
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnsGroup.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnExt.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnFillet.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnImg.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDropDownBtn.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCheckBox.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCombox.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGrid.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGridPanel.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridView.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewRow.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewTreeRow.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt2.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan2.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimePanel.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBlower.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMindMappingPanel.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRotor.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTurntable.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderAll.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderNum.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderPay.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDData.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDDataTime.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDNums.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDTime.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalList.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalListItem.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListExt.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListItemExt.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListView.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListViewItem.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl2.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControlBase.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenu.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuChildrenItem.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuParentItem.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenu.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuExt.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuOffice.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCrumbNavigation.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPanelTitle.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessEllipse.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessExt.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessLineExt.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessWave.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRadioButton.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCVScrollbar.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_H.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_V.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCStep.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSwitch.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.TextBoxTransparent.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNumTextBox.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTextBoxEx.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimeLine.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTransfer.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCControlBase.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchor.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchorTips.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBase.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmDialog.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmInputs.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBack.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmLoading.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTips.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTransparent.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWaiting.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel1.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel2.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithTitle.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Properties.Resources.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.FrmSelectImage.resources
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csproj.GenerateResource.Cache
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.dll
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.pdb
+E:\C# testing\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate64
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.cupf
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.ini
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\lm_HW_PB_7000_kn.arpa.7e9.prune.1e-7.lm.fixed
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_annex.bin
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_hz.bin
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_py.bin
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput.dll
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput64.dll
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\overlapEngine.dll
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\singleEngine.dll
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.exe
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HandInput\icon.png
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnsGroup.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnExt.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnFillet.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnImg.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDropDownBtn.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCheckBox.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCombox.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGrid.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGridPanel.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridView.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewRow.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewTreeRow.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt2.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan2.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimePanel.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBlower.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMindMappingPanel.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRotor.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTurntable.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderAll.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderNum.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderPay.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDData.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDDataTime.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDNums.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDTime.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalList.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalListItem.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListExt.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListItemExt.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListView.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListViewItem.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl2.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControlBase.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenu.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuChildrenItem.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuParentItem.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenu.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuExt.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuOffice.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCrumbNavigation.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPanelTitle.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessEllipse.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessExt.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessLineExt.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessWave.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRadioButton.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCVScrollbar.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_H.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_V.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCStep.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSwitch.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.TextBoxTransparent.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNumTextBox.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTextBoxEx.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimeLine.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTransfer.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCControlBase.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchor.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchorTips.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBase.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmDialog.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmInputs.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBack.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmLoading.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTips.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTransparent.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWaiting.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel1.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel2.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithTitle.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Properties.Resources.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.FrmSelectImage.resources
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\43\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate64
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.cupf
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.ini
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\lm_HW_PB_7000_kn.arpa.7e9.prune.1e-7.lm.fixed
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_annex.bin
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_hz.bin
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_py.bin
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput.dll
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput64.dll
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\overlapEngine.dll
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\singleEngine.dll
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.exe
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\icon.png
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnsGroup.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnExt.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnFillet.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnImg.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDropDownBtn.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCheckBox.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCombox.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGrid.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGridPanel.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridView.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewRow.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewTreeRow.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt2.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan2.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimePanel.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBlower.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMindMappingPanel.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRotor.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTurntable.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderAll.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderNum.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderPay.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDData.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDDataTime.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDNums.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDTime.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalList.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalListItem.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListExt.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListItemExt.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListView.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListViewItem.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl2.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControlBase.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenu.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuChildrenItem.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuParentItem.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenu.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuExt.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuOffice.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCrumbNavigation.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPanelTitle.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessEllipse.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessExt.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessLineExt.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessWave.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRadioButton.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCVScrollbar.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_H.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_V.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCStep.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSwitch.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.TextBoxTransparent.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNumTextBox.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTextBoxEx.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimeLine.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTransfer.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCControlBase.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchor.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchorTips.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBase.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmDialog.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmInputs.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBack.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmLoading.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTips.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTransparent.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWaiting.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel1.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel2.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithTitle.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Properties.Resources.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.FrmSelectImage.resources
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\watch645\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate64
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.cupf
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.ini
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\lm_HW_PB_7000_kn.arpa.7e9.prune.1e-7.lm.fixed
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_annex.bin
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_hz.bin
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_py.bin
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput.dll
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput64.dll
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\overlapEngine.dll
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\singleEngine.dll
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.exe
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\icon.png
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnsGroup.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnExt.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnFillet.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnImg.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDropDownBtn.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCheckBox.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCombox.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGrid.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGridPanel.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridView.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewRow.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewTreeRow.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt2.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan2.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimePanel.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBlower.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMindMappingPanel.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRotor.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTurntable.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderAll.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderNum.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderPay.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDData.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDDataTime.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDNums.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDTime.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalList.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalListItem.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListExt.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListItemExt.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListView.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListViewItem.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl2.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControlBase.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenu.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuChildrenItem.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuParentItem.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenu.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuExt.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuOffice.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCrumbNavigation.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPanelTitle.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessEllipse.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessExt.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessLineExt.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessWave.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRadioButton.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCVScrollbar.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_H.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_V.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCStep.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSwitch.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.TextBoxTransparent.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNumTextBox.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTextBoxEx.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimeLine.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTransfer.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCControlBase.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchor.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchorTips.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBase.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmDialog.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmInputs.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBack.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmLoading.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTips.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTransparent.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWaiting.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel1.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel2.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithTitle.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Properties.Resources.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.FrmSelectImage.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.pdb
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate64
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.cupf
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.ini
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\lm_HW_PB_7000_kn.arpa.7e9.prune.1e-7.lm.fixed
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_annex.bin
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_hz.bin
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_py.bin
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput.dll
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput64.dll
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\overlapEngine.dll
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\singleEngine.dll
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.exe
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\icon.png
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.dll
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.pdb
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnsGroup.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnExt.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnFillet.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnImg.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDropDownBtn.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCheckBox.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCombox.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGrid.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGridPanel.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridView.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewRow.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewTreeRow.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt2.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan2.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimePanel.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBlower.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMindMappingPanel.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRotor.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTurntable.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderAll.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderNum.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderPay.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDData.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDDataTime.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDNums.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDTime.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalList.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalListItem.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListExt.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListItemExt.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListView.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListViewItem.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl2.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControlBase.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenu.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuChildrenItem.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuParentItem.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenu.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuExt.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuOffice.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCrumbNavigation.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPanelTitle.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessEllipse.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessExt.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessLineExt.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessWave.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRadioButton.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCVScrollbar.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_H.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_V.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCStep.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSwitch.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.TextBoxTransparent.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNumTextBox.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTextBoxEx.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimeLine.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTransfer.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCControlBase.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchor.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchorTips.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBase.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmDialog.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmInputs.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBack.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmLoading.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTips.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTransparent.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWaiting.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel1.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel2.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithTitle.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Properties.Resources.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.FrmSelectImage.resources
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.dll
+C:\Users\admin\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.pdb
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate64
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.cupf
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.ini
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\lm_HW_PB_7000_kn.arpa.7e9.prune.1e-7.lm.fixed
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_annex.bin
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_hz.bin
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_py.bin
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput.dll
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput64.dll
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\overlapEngine.dll
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\singleEngine.dll
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.exe
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HandInput\icon.png
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.dll
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.pdb
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnsGroup.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnExt.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnFillet.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnImg.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDropDownBtn.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCheckBox.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCombox.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGrid.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGridPanel.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridView.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewRow.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewTreeRow.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt2.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan2.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimePanel.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBlower.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMindMappingPanel.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRotor.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTurntable.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderAll.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderNum.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderPay.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDData.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDDataTime.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDNums.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDTime.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalList.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalListItem.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListExt.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListItemExt.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListView.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListViewItem.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl2.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControlBase.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenu.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuChildrenItem.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuParentItem.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenu.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuExt.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuOffice.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCrumbNavigation.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPanelTitle.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessEllipse.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessExt.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessLineExt.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessWave.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRadioButton.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCVScrollbar.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_H.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_V.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCStep.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSwitch.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.TextBoxTransparent.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNumTextBox.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTextBoxEx.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimeLine.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTransfer.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCControlBase.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchor.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchorTips.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBase.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmDialog.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmInputs.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBack.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmLoading.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTips.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTransparent.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWaiting.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel1.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel2.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithTitle.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Properties.Resources.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.FrmSelectImage.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.dll
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate64
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.cupf
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.ini
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\lm_HW_PB_7000_kn.arpa.7e9.prune.1e-7.lm.fixed
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_annex.bin
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_hz.bin
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_py.bin
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput.dll
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput64.dll
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\overlapEngine.dll
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\singleEngine.dll
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.exe
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HandInput\icon.png
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnsGroup.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnExt.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnFillet.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnImg.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDropDownBtn.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCheckBox.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCombox.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGrid.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGridPanel.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridView.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewRow.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewTreeRow.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt2.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan2.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimePanel.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBlower.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMindMappingPanel.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRotor.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTurntable.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderAll.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderNum.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderPay.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDData.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDDataTime.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDNums.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDTime.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalList.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalListItem.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListExt.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListItemExt.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListView.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListViewItem.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl2.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControlBase.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenu.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuChildrenItem.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuParentItem.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenu.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuExt.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuOffice.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCrumbNavigation.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPanelTitle.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessEllipse.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessExt.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessLineExt.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessWave.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRadioButton.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCVScrollbar.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_H.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_V.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCStep.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSwitch.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.TextBoxTransparent.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNumTextBox.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTextBoxEx.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimeLine.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTransfer.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCControlBase.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchor.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchorTips.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBase.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmDialog.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmInputs.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBack.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmLoading.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTips.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTransparent.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWaiting.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel1.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel2.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithTitle.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Properties.Resources.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.FrmSelectImage.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate64
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.cupf
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.ini
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\lm_HW_PB_7000_kn.arpa.7e9.prune.1e-7.lm.fixed
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_annex.bin
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_hz.bin
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_py.bin
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput.dll
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput64.dll
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\overlapEngine.dll
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\singleEngine.dll
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.exe
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HandInput\icon.png
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnsGroup.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnExt.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnFillet.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnImg.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDropDownBtn.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCheckBox.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCombox.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGrid.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGridPanel.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridView.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewRow.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewTreeRow.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt2.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan2.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimePanel.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBlower.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMindMappingPanel.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRotor.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTurntable.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderAll.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderNum.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderPay.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDData.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDDataTime.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDNums.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDTime.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalList.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalListItem.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListExt.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListItemExt.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListView.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListViewItem.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl2.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControlBase.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenu.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuChildrenItem.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuParentItem.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenu.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuExt.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuOffice.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCrumbNavigation.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPanelTitle.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessEllipse.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessExt.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessLineExt.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessWave.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRadioButton.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCVScrollbar.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_H.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_V.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCStep.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSwitch.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.TextBoxTransparent.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNumTextBox.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTextBoxEx.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimeLine.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTransfer.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCControlBase.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchor.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchorTips.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBase.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmDialog.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmInputs.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBack.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmLoading.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTips.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTransparent.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWaiting.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel1.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel2.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithTitle.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Properties.Resources.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.FrmSelectImage.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\certificate64
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.cupf
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.ini
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\lm_HW_PB_7000_kn.arpa.7e9.prune.1e-7.lm.fixed
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_annex.bin
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_hz.bin
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\sgim_py.bin
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput.dll
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\HandInput64.dll
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\overlapEngine.dll
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\singleEngine.dll
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\handinput.exe
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HandInput\icon.png
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\bin\Debug\HZH_Controls.pdb
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnsGroup.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnExt.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnFillet.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBtnImg.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDropDownBtn.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCheckBox.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCombox.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGrid.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCComboxGridPanel.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridView.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewRow.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDataGridViewTreeRow.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDatePickerExt2.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCDateTimeSelectPan2.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimePanel.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCBlower.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMindMappingPanel.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRotor.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTurntable.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderAll.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderNum.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCKeyBorderPay.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDData.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDDataTime.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDNums.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCLEDTime.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalList.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCHorizontalListItem.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListExt.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListItemExt.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListView.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCListViewItem.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControl2.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPagerControlBase.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenu.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuChildrenItem.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCMenuParentItem.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenu.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuExt.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNavigationMenuOffice.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCCrumbNavigation.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCPanelTitle.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessEllipse.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessExt.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessLineExt.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCProcessWave.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCRadioButton.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCVScrollbar.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_H.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSplitLine_V.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCStep.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCSwitch.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.TextBoxTransparent.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCNumTextBox.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTextBoxEx.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTimeLine.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCTransfer.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Controls.UCControlBase.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchor.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmAnchorTips.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBase.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmDialog.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmInputs.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmBack.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmLoading.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTips.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmTransparent.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWaiting.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel1.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithOKCancel2.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Forms.FrmWithTitle.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.Properties.Resources.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.FrmSelectImage.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.dll
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\HZH_Controls\obj\Debug\HZH_Controls.pdb

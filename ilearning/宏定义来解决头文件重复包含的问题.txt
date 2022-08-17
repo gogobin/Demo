@@ -1,0 +1,8 @@
+【通过宏定义解决头文件重复包含】
+通过#ifndef/#define解决头文件重复包含
+#ifndef __XXX_H__
+#define __XXX_H__
+
+int a = 1;
+
+#endif

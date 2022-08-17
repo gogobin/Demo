@@ -1,0 +1,373 @@
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\Bll.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\DAL.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.OOXML.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\Interop.DSOFramer.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\Bll.pdb
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\bin\Debug\DAL.pdb
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.AddSignPerson.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.IC.NOGagueIC.SW.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\liguohui\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\Bll.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\DAL.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.OOXML.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\Interop.DSOFramer.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\Bll.pdb
+C:\Users\127418\Desktop\AMS\NO Gague IC\bin\Debug\DAL.pdb
+C:\Users\127418\Desktop\AMS\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\127418\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.AddSignPerson.resources
+C:\Users\127418\Desktop\AMS\NO Gague IC\obj\Debug\IC.IC.NOGagueIC.SW.frmChangeFileCause.resources
+C:\Users\127418\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmQueryParamter.resources
+C:\Users\127418\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\127418\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\127418\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\127418\Desktop\AMS\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\127418\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\127418\Desktop\AMS\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\127418\Desktop\DS100-PCM-01\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\127418\Desktop\DS100-PCM-01\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\127418\Desktop\DS100-PCM-01\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\127418\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\127418\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\127418\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\127418\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\127418\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\127418\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\Administrator\Desktop\DS100-PCM-01\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\Administrator\Desktop\DS100-PCM-01\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\Administrator\Desktop\DS100-PCM-01\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\Administrator\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\Administrator\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\Administrator\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\Administrator\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+D:\DS100-PCM-01\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+D:\DS100-PCM-01\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+D:\DS100-PCM-01\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+D:\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+D:\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+D:\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+D:\DS100-PCM-01\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+D:\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+D:\DS100-PCM-01\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+D:\DS100-PCM-01\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\127418\Desktop\DS100-PCM-01\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\127418\Desktop\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\127418\Desktop\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\127418\Desktop\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\127418\Desktop\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\127418\Desktop\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\127418\Desktop\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\127418\Desktop\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\127418\Desktop\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\127418\Desktop\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\127418\Desktop\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\Watch项目\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\Watch项目\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\Watch项目\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\Watch项目\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\Watch项目\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\Watch项目\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\V2.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\Watch项目\V2.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\V2.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\V2.0\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\Watch项目\V2.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\Watch项目\V2.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\Watch项目\V2.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\Watch项目\V2.0\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\Watch项目\V2.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\V2.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\v5.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\Watch项目\v5.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\v5.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\v5.0\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\Watch项目\v5.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\Watch项目\v5.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\Watch项目\v5.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\Watch项目\v5.0\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\Watch项目\v5.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\v5.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\v6.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\Watch项目\v6.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\v6.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\v6.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\Watch项目\v6.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\Watch项目\v6.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\Watch项目\v6.0\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\Watch项目\v6.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\v6.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\v8.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\Watch项目\v8.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\v8.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\v8.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\Watch项目\v8.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\Watch项目\v8.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\Watch项目\v8.0\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\Watch项目\v8.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\v8.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\v8.0\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\Watch项目\v9.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\Watch项目\v9.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\v9.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\Watch项目\v9.0\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\Watch项目\v9.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\Watch项目\v9.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\Watch项目\v9.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\Watch项目\v9.0\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\Watch项目\v9.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\Watch项目\v9.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\63\v11.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\63\v11.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\63\v11.0\BQ27546\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\63\v11.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\63\v11.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\63\v11.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\63\v11.0\BQ27546\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\63\v11.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\63\v11.0\BQ27546\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\63\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\63\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\63\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\63\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\63\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\63\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\63\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\63\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\63\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\63\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+D:\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+D:\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+D:\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+D:\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+D:\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+D:\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+D:\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+D:\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+D:\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+E:\新建文件夹 (2)\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+E:\新建文件夹 (2)\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+E:\新建文件夹 (2)\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+E:\新建文件夹 (2)\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+E:\新建文件夹 (2)\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+E:\新建文件夹 (2)\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+E:\新建文件夹 (2)\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+E:\新建文件夹 (2)\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+E:\新建文件夹 (2)\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\admin\Desktop\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\admin\Desktop\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\admin\Desktop\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\admin\Desktop\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\admin\Desktop\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\admin\Desktop\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\admin\Desktop\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\admin\Desktop\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\admin\Desktop\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\Administrator\Desktop\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\Administrator\Desktop\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\Administrator\Desktop\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\Administrator\Desktop\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\Administrator\Desktop\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\Administrator\Desktop\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\Administrator\Desktop\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\新建文件夹 (4)\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\新建文件夹 (4)\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\新建文件夹 (4)\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\新建文件夹 (4)\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\新建文件夹 (4)\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\新建文件夹 (4)\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\新建文件夹 (4)\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\新建文件夹 (4)\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\新建文件夹 (4)\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\新建文件夹 (4)\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\admin\Desktop\DSY.2020.9.14.6\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\admin\Desktop\DSY.2020.9.14.6\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\admin\Desktop\DSY.2020.9.14.6\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\admin\Desktop\DSY.2020.9.14.6\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\DSY.2020.9.14.6\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\admin\Desktop\DSY.2020.9.14.6\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\admin\Desktop\DSY.2020.9.14.6\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\admin\Desktop\DSY.2020.9.14.6\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\DSY.2020.9.14.6\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\admin\Desktop\DSY.2020.9.14.6\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\Administrator\Desktop\2020.9.23\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\Administrator\Desktop\2020.9.23\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\Administrator\Desktop\2020.9.23\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\Administrator\Desktop\2020.9.23\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2020.9.23\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\Administrator\Desktop\2020.9.23\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2020.9.23\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\Administrator\Desktop\2020.9.23\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2020.9.23\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\Administrator\Desktop\2020.9.23\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\2020.9.24\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\2020.9.24\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\2020.9.24\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\2020.9.24\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\2020.9.24\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\2020.9.24\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\2020.9.24\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\2020.9.24\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\2020.9.24\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\2020.9.24\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\2020.10.9\2020.9.27\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\2020.10.9\2020.9.27\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\2020.10.9\2020.9.27\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\2020.10.9\2020.9.27\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\2020.10.9\2020.9.27\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\2020.10.9\2020.9.27\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\2020.10.9\2020.9.27\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\2020.10.9\2020.9.27\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\2020.10.9\2020.9.27\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\2020.10.9\2020.9.27\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\watch v2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\watch skinV2.3\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\TEMP\Desktop\watch skinV2.7.1\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\TEMP\Desktop\watch skinV2.7.2\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\TEMP\Desktop\watch skinV2.7.2\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\TEMP\Desktop\watch skinV2.7.2\v16\2020.9.19\65\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\TEMP\Desktop\watch skinV2.7.2\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\watch skinV2.7.2\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.2\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.2\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\TEMP\Desktop\watch skinV2.7.2\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\watch skinV2.7.2\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\TEMP\Desktop\watch skinV2.7.2\v16\2020.9.19\65\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\自耗电\watch v2.9\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\watch v3.2\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\138004\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\test01\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\test01\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\test01\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\test01\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojResolveAssemblyReference.cache
+C:\Users\test01\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\test01\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\test01\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\test01\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.Cache
+C:\Users\test01\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\test01\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csprojAssemblyReference.cache
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.cache
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.CoreCompileInputs.cache
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\NOGagueIC.csproj.CopyComplete
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\bingo\Desktop\HUAWEI\BaseProgram\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll.config
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.dll
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\bin\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\bin\Debug\zh-Hans\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmSttingParamter.resources
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.Properties.Resources.resources
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.frmParaMter.resources
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\obj\Debug\NOGagueIC.csproj.GenerateResource.cache
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\obj\Debug\NOGagueIC.csproj.CoreCompileInputs.cache
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\obj\Debug\NOGagueIC.csproj.CopyComplete
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.dll
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\obj\Debug\IC.NOGagueIC.SW.pdb
+C:\Users\bingo\Desktop\Watch\NewWatch\NO Gague IC\obj\Debug\NOGagueIC.csprojAssemblyReference.cache

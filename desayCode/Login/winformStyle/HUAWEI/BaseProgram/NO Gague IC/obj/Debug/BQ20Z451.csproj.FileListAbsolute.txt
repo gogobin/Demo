@@ -1,0 +1,22 @@
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\BQ20Z451.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\My_Bll.AddSignPerson.resources
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\My_Bll.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\My_Bll.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\EV2300_Test_Systerm.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\BQ20z451.SW.Properties.Resources.resources
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\My_Bll.SettingTestDetailsParameters.resources
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\BQ20Z451.csproj.GenerateResource.Cache
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\My_Bll.pdb
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\BQ20z451.SW.AddSignPerson.resources
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\BQ20z451.SW.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\BQ20z451.SW.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\BQ20z451.SW.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\BQ20Z451\obj\Debug\BQ20z451.SW.SettingTestDetailsParameters.resources
+C:\Users\liguohui\Desktop\OQC Test\obj\Debug\BQ20Z451.csprojResolveAssemblyReference.cache
+C:\Users\liguohui\Desktop\OQC Test\obj\Debug\BQ20z451.SW.AddSignPerson.resources
+C:\Users\liguohui\Desktop\OQC Test\obj\Debug\BQ20z451.SW.frmChangeFileCause.resources
+C:\Users\liguohui\Desktop\OQC Test\obj\Debug\BQ20z451.SW.frmQueryParamter.resources
+C:\Users\liguohui\Desktop\OQC Test\obj\Debug\BQ20z451.SW.frmSttingParamter.resources
+C:\Users\liguohui\Desktop\OQC Test\obj\Debug\OQC.SW.Properties.Resources.resources
+C:\Users\liguohui\Desktop\OQC Test\obj\Debug\BQ20z451.SW.SettingTestDetailsParameters.resources
+C:\Users\liguohui\Desktop\OQC Test\obj\Debug\BQ20Z451.csproj.GenerateResource.Cache
