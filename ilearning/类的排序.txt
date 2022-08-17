@@ -1,0 +1,37 @@
+#include <iostream>
+#include "algorithm"
+#include "vector"
+using namespace std;
+class Person
+{
+public:
+    int age;
+    int length;
+    Person(int a, int l) : age(a),length(l){};
+};
+
+bool compare(Person p1, Person p2)
+{
+    if(p1.age == p2.age) {
+        return p1.length < p2.length;
+    }
+    return p1.age > p2.age;
+}
+
+int main() {
+    Person per = Person(10, 10);
+    Person poi = Person(11, 11);
+    Person pp = Person(11, 13);
+    vector<Person> ui;
+    ui.push_back(per);
+    ui.push_back(poi);
+    ui.push_back(pp);
+    sort(ui.begin(), ui.end(), compare);
+    for(auto obj : ui) {
+        cout << "------------testcast--------" << endl;
+        cout << obj.age << endl;
+        cout << obj.length << endl;
+    }
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
